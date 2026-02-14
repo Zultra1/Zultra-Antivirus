@@ -1,6 +1,9 @@
 # Zultra Antivirus
 An Antivirus app. Not too simple but it works.
 
+To install the app go to the [Installation page.](https://github.com/Zultra1/Zultra-Antivirus/blob/main/Installation.md)
+
+
 ****NOTES⚠️*****
 This app does not have a 100% Protection gurantee. This app is currently in alpha.
 We recommend that that you use another antivirus as this app is currently in alpha.
