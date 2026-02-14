@@ -1,4 +1,4 @@
-#Installation
+INSTALLATION
 
 ****Requirments****
 •Python v3 or higher (Recommended)
